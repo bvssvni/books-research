@@ -22,3 +22,6 @@ Current reading list:
 <a href="http://en.wikipedia.org/wiki/ML_%28programming_language%29" target="_blank">ML programming language</a>  
 <a href="https://en.wikipedia.org/wiki/Standard_ML" target="_blank">Standard ML</a>  
 <a href="https://en.wikipedia.org/wiki/Caml" target="_blank">Caml</a>  
+<a href="http://coq.inria.fr/" target="_blank">Cog Proof Assistant</a>  
+<a href="https://en.wikipedia.org/wiki/Concept_%28generic_programming%29" target="_blank">Concept</a>  
+<a href="http://www.idris-lang.org/" target="_blank">Idris</a>  
